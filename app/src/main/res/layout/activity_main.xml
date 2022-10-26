@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
 
     android:background="@drawable/leaf"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_marginTop="40dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
         android:fontFamily="sans-serif-black"
+        android:padding="40dp"
         android:text="The Traditional Cure vs The Modern Medicine"
         android:textAlignment="center"
         android:textColor="@color/black"
-        android:textSize="30sp"
-        android:padding="40dp"/>
+        android:textSize="30sp" />
 
 
     <TextView
@@ -37,7 +37,6 @@
         android:layout_gravity="center"
         android:backgroundTint="#000000"
         android:fontFamily="sans-serif-black"
-        android:onClick="next"
         android:padding="15dp"
         android:text="Next Page"
         android:textSize="16sp" />
