@@ -31,16 +31,16 @@
         android:textSize="20sp" />
 
     <Button
-        android:id="@+id/startButton"
+        android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:backgroundTint="#000000"
         android:fontFamily="sans-serif-black"
         android:onClick="next"
+        android:padding="15dp"
         android:text="Next Page"
-        android:layout_gravity="center"
-        android:textSize="16sp"
-        android:padding="15dp"/>
+        android:textSize="16sp" />
 
 
 </LinearLayout>

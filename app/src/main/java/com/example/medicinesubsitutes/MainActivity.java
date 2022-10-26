@@ -12,13 +12,12 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private Button nextBtn;
-    private Button nextBtn2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        nextBtn = (Button) findViewById(R.id.startButton);
+        nextBtn = (Button) findViewById(R.id.button1);
         nextBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -27,24 +26,9 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
     public void nextpage()
     {
         Intent intent = new Intent(this, context.class);
         startActivity(intent);
     }
-
-
-
-    public void next(View v)
-    {
-        Log.i("click", "you clicked button next");
-        Intent intent = new Intent(MainActivity.this, context.class);
-        startActivity(intent);
-        Toast.makeText(this, "you clicked next!", Toast.LENGTH_LONG).show();
-    }
-
-
-
-
 }

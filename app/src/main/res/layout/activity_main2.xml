@@ -30,10 +30,15 @@ has taken off in modern American society. What citizens aren't aware of is that 
         android:textColor="#01579B" />
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="match_parent"
+        android:id="@+id/button2"
+        android:layout_width="217dp"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:layout_gravity="center"
+        android:backgroundTint="#000000"
+        android:fontFamily="sans-serif-black"
+        android:padding="15dp"
+        android:text="solutions"
+        android:textSize="16sp" />
 
 
 </LinearLayout>
