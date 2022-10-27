@@ -30,17 +30,7 @@ public class context extends AppCompatActivity {
     }
     public void nextpage2()
     {
-        Intent intent = new Intent(this, context.class);
-        startActivity(intent);
-    }
-
-    public void next(View v)
-    {
-        Log.i("click", "you clicked button next");
         Intent intent = new Intent(this, solutions.class);
         startActivity(intent);
-        Toast.makeText(this, "you clicked next!", Toast.LENGTH_LONG).show();
     }
-
-
 }

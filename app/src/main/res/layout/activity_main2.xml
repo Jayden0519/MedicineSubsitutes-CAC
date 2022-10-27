@@ -36,18 +36,18 @@
         android:padding="30dp"
         android:text="In recent decades, the use of Modern Medicine to cure long term diseases to common colds
 has taken off in modern American society. What citizens aren't aware of is that millions of people suffer from problems such as insomnia, chronic pain, and problems with mental health. Pharmaceutical companies create products that do more harm than good with side effects such as addiction, heart issues, fatigue, nausea and overall causes a decrease in the quality of life they live. There are however solutions to overcome the side effects of allowing large pharmaceutical companies to control us and that solution lies in taking a step back to tradition medicine."
-        android:textColor="#01579B" />
+        android:textColor="@color/black" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="217dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:backgroundTint="#000000"
         android:fontFamily="sans-serif-black"
-        android:padding="15dp"
-        android:text="solutions"
-        android:textSize="16sp" />
+        android:padding="5dp"
+        android:text="next page"
+        android:textSize="14sp" />
 
 
 </LinearLayout>
