@@ -100,11 +100,11 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-black"
         android:padding="15dp"
-        android:text="Milk thistle is used to treat liver conditions, high cholesterol and can be used to reduce the growth of cancer cells. Originally native to the Mediterranean, having been used for the past thousand years. Although not scientifically proven, it is a local cure in third world communities where modern medicine isn't an option for people. Witnesses within the United States have also claimed to felt the effects of milk thistle more than pharmaceutical medication."
+        android:text="Milk thistle is used to treat liver conditions, high cholesterol and can be used to reduce the growth of cancer cells. It's originally native to the Mediterranean, and has been used for the past thousand years. Although not scientifically proven, it is a local cure in third world communities where modern medicine isn't an option for people. Witnesses within the United States have also claimed to felt the effects of milk thistle more than pharmaceutical medication."
         android:textColor="@color/black" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button3"
         android:layout_width="217dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

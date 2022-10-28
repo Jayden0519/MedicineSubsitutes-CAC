@@ -35,7 +35,7 @@
         android:fontFamily="sans-serif-black"
         android:padding="30dp"
         android:text="In recent decades, the use of Modern Medicine to cure long term diseases to common colds
-has taken off in modern American society. What citizens aren't aware of is that millions of people suffer from problems such as insomnia, chronic pain, and problems with mental health. Pharmaceutical companies create products that do more harm than good with side effects such as addiction, heart issues, fatigue, nausea and overall causes a decrease in the quality of life they live. There are however solutions to overcome the side effects of allowing large pharmaceutical companies to control us and that solution lies in taking a step back to tradition medicine."
+has taken off in modern American society. What citizens aren't aware of is that millions of people suffer from problems such as insomnia, chronic pain, and problems with mental health. Pharmaceutical companies create products that do more harm than good with side effects such as addiction, heart issues, fatigue, nausea and overall causes a decrease in the quality of life they live. There are however solutions to overcome the side effects of allowing large pharmaceutical companies to control us and that solution lies in taking a step back to traditional medicine."
         android:textColor="@color/black" />
 
     <Button
