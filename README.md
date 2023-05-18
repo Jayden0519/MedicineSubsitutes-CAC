@@ -1,5 +1,5 @@
 # MedicineSubsitutes
-Project Name: MyFirstApp 
+Project Name: MedicineSubsitutes
 Class: Advanced Java Topics
 Data: 5/18/23
 Date Submitted: 10/31/22
